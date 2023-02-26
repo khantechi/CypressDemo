@@ -1,0 +1,9 @@
+{
+    "firstname":"kareem",
+    "lastname":"khan",
+    "confirmAlert":"Hello kareem, Are you sure you want to confirm?",
+    "simpleAlert":"Hello khan, share this practice page and share your knowledge",
+    "url":"https://rahulshettyacademy.com/AutomationPractice/",
+    "country":"Indonesia",
+    "textToVerify":"rahulshettyacademy"
+}
