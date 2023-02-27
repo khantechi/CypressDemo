@@ -22,6 +22,7 @@ class HomePage{
     mouseHoverBtn=".mouse-hover-content"
     courseFrame="#courses-iframe"
     learningPathLink="a[href='learning-path']"
+    coursePrice="(//li[@class='amountInDollar']/a)[2]"
 
 
 
